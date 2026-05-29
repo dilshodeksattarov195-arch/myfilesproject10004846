@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdave",
+        "uuid": 28446020,
+        "checksum": "lnr8bm"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
